@@ -13,7 +13,7 @@ function App() {
       setMode("light");
       setTitName("Activate Dark Mode");
       document.body.style.backgroundColor = "white";
-      document.title= "Fonter App";
+      document.title= "Fonter App";     
 
     } else {
       setMode("dark");
