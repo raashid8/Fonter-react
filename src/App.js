@@ -2,7 +2,7 @@
 import Navbar from "./components/Navbar";
 import Textarea from "./components/Textarea";
 import React, { useState } from "react";
-// import About from "./components/About";
+// import About from "./components/About";    
 
 function App() {
   const [mode, setMode] = useState("light");
